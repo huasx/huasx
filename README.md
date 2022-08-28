@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
